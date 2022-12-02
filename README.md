@@ -1,4 +1,4 @@
-# Auto Hide Faceit Lobbies v1.0.2
+# AU Panopto All Cameras v1.0.0
 Free Open Source Chrome Extension: Normally AU Panopto lectures have an annoying layout where you can't see multiple angles simultaneously. Now you can.
 
 ## Chrome Webstore
